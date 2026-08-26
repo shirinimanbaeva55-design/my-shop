@@ -1,0 +1,6 @@
+@media (max-width: 700px) {
+  .contactText {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+}
